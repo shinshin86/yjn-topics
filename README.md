@@ -4,6 +4,8 @@ CLI tool of fetch [Yahoo Japan News](https://news.yahoo.co.jp/) Topics.
 
 
 
+![demo gif](./gif/demo.gif)
+
 ## Install 
 
 ```bash
